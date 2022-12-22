@@ -1,0 +1,4 @@
+python detect.py --weights yolov7-w6-pose.pt --kpt label --hide-labels --hide-conf --source img.jpg --line-thickness 12 
+### 
+to unsave results in runs use>>>>>> --nosave
+to show result in runtime use>>>>> --view-img

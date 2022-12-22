@@ -1,0 +1,2 @@
+##downnload weights from here #yolov7-w6-pose.pt#
+https://github.com/WongKinYiu/yolov7
